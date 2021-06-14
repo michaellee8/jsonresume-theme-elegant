@@ -29,9 +29,10 @@
     "markdown-it-abbr": "^1.0.3",
     "moment": "^2.22.2",
     "pug": "^2.0.4",
+    "pug-cli": "^1.0.0-alpha6",
     "resume-schema": "1.0.0",
-    "tarball-extract": "0.0.3",
     "sshpk": ">=1.13.2",
+    "tarball-extract": "0.0.3",
     "underscore": "^1.6.0"
   },
   "devDependencies": {
